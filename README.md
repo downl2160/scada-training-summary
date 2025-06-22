@@ -25,15 +25,15 @@ The training covered SCADA design and architecture using the **Ignition** platfo
 - Client deployment and user sessions
 
 ---
+## 🧾 Credential Preview
 
-## 🧾 Credential (No auto-download)
+> A snapshot of the earned credential:
 
-Inductive University does not provide a traditional PDF certificate. Instead, a digital credential is awarded on profile after completing all modules.
+<img src="certificate/ignition-credential-earned.png" width="500">
 
-You can verify the earned status on [my Inductive University Profile](https://inductiveuniversity.com).
+📎 Viewable at: [Inductive University Profile](https://inductiveuniversity.com)
 
 ---
-
 ## 🖼️ Screenshots
 
 > Located in the `/screenshots` folder:
